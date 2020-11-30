@@ -2,10 +2,6 @@
 
 This is an Arkanoid clone game that I made with Unity. 
 
-Game engine: Unity
-
-Programming language: C#
-
 Platform: PC
 
 Watch [Gameplay demo](https://www.youtube.com/watch?v=sOqEoOyisQU&feature=youtu.be)
